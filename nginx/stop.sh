@@ -1,1 +1,1 @@
-nginx -s stop -c /root/develop/github/nmlyf.cn/nginx/nginx.conf
+nginx -s stop -c /root/develop/github/wfzzq.top/nginx/nginx.conf
